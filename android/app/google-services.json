@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868453427941",
+    "project_id": "evaflo-8b7aa",
+    "storage_bucket": "evaflo-8b7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868453427941:android:677a235250773bae15c20c",
+        "android_client_info": {
+          "package_name": "com.appsbunches.evafloapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcGuAj_Rxl2XuZsAvi8cxdsDdSBudJHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

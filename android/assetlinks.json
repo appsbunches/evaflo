@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "Evaflo",
+      "package_name": "com.appsbunches.evafloapp",
+      "sha256_cert_fingerprints": [
+        "CD:06:ED:B1:5A:E2:81:9A:71:69:04:E1:BC:33:99:76:9E:FE:C7:D4:EE:10:A6:9B:31:E9:31:95:D9:7E:D0:6A"
+      ]
+    }
+  }
+]
